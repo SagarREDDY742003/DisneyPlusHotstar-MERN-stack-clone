@@ -1,0 +1,133 @@
+.main{
+    width: 94.15%;
+    height: fit-content;
+    margin-left: 100px;
+}
+.detail{
+    width: 100%;
+    height: auto;
+    /* padding: 2%; */
+}
+.bigg{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: rgba(240, 248, 255, 0);
+    z-index: 0;
+}
+.bigg img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    opacity: 0.7;
+    /* -webkit-mask-image: linear-gradient(rgb(0, 0, 0), transparent);
+    mask-image: linear-gradient(rgb(0, 0, 0),transparent); */
+}
+.detailcont{
+    margin-top: -23%;
+    display: flex;
+    width: 100%;
+    padding:1%;
+    background-color: rgba(240, 248, 255, 0);
+    opacity: 0.9;
+}
+.detaincontbt{
+    width: 50%;
+    background-color: rgba(240, 248, 255, 0);
+}
+.logoo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    padding: 1.5%;
+    background-color: rgba(240, 248, 255, 0);
+}
+.logoo img{
+    border-radius: 10px;
+    width: 80%;
+    object-fit: contain;
+    background-color: rgba(240, 248, 255, 0);
+}
+.but{
+    width: 100%;
+    padding: 2%;
+    border-radius: 10px;
+    z-index: 100; 
+    background-color: rgba(240, 248, 255, 0);
+}
+.lll{
+    width: auto;
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0);
+}
+.watchbut{
+    width: 200px;
+    border-radius: 5px;
+}
+.plusbut{
+    width: 200px;
+    margin-left: 5%;
+    border-radius: 5px;
+}
+.infor{
+    width: 50%;
+    background-color: rgba(255, 255, 255, 0.39);
+    padding: 1%;
+    border-radius: 10px;
+    height: fit-content;
+}
+.group{
+    display: flex;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0);
+}
+.group p{
+    width: 50%;
+}
+.ch{
+    width: 40%;
+    margin-left: 2%;
+}
+.detailcont p{
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.61);
+    color: rgb(255, 255, 255);
+    width: 100%;
+    padding: 0.8%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+@media only screen and (max-width:700px) {
+    .main{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .detail img{
+        width: 100%;
+    }
+    .detailcont{
+        display: grid;
+    }
+    .infor{
+        width: 100%;
+    }
+    .watchbut{
+        width: 150px;
+    }
+    .plusbut{
+        width: 200px;
+    }
+    .detaincontbt{
+        width: 100%;
+    }
+}
+.spinner{
+    width: 200px;
+    height: 200px;
+}
+.spinner img{
+    width: 100%;
+    height: 100%;
+}

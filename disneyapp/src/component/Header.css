@@ -1,0 +1,168 @@
+/* *{
+    width: 100vw;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #000000;
+} */
+.mylight{
+    background-color: rgb(245, 255, 255);
+    color: #0f1014;
+}
+.body{
+    background-color: #0f1014;
+    color: aliceblue;
+}
+/*---------------nav bar--------------------------*/
+.navba{
+    width: 100px;
+    height:100%;
+    background-color:#0f1014;
+    position: fixed;
+    border-right: 4px solid rgb(0, 0, 0);
+}
+.logo{
+    width: 100%;
+    margin-top: 30px;
+}
+.logo img{
+    width: 70%;
+    /* height: 70px; */
+    object-fit: contain;
+    margin-left: 15%;
+    /* color: #0f1014; */
+    background-color: #0f1014;
+    border-radius: 15px;
+    padding: 4px;
+}
+.logo button{
+    margin-left: 5%;
+    margin-top: 10px;
+    width: 90%;
+    height: 24px;
+    border: none;
+    border-radius: 20px;
+    color: #f5c472;
+    background-color:#27231e;
+}
+.option{
+    width: 100%;
+    margin-top: 100px;
+    color: #0f101400;
+    background-color: rgba(255, 255, 255, 0) ;
+}
+.option i{
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 40px;
+    color:rgb(247, 247, 247);
+    background-color: #0f101400;
+}
+.option i:hover{
+    scale: 1.2;
+}
+@media only screen and (max-width:700px){
+    .navba{
+        padding-top: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height:80px;
+        position: relative;
+        background-color: #0f1014;
+        border-right: 0;
+        border-bottom: 4px solid rgb(0, 0, 0);
+    }
+    .logo{
+        margin-top: 0px;
+        width: 20%;
+        height: 60px;
+        float: right;
+    }
+    .logo img{
+        margin-top: 4px;
+        height: 50px;
+        width: 60px;
+    }
+    .logo button{
+        display: none;
+        /* margin-left: 17%;
+        width: auto;
+        height: 20px;
+        margin-top: 0px; */
+    }
+    .option{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        margin-top:0px;
+        width: 75%;
+        height: 60px;
+        float: left;
+    }
+    .option i{
+        padding-top: 25px;
+        margin-top: 0px;
+        height: 100%;
+        font-size: 16px;
+    }
+}
+
+
+
+#coupon{
+    height:600px;
+    width: 60%;
+    background-color: rgb(42, 123, 123);
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 20%;
+    z-index: 10;
+    border-radius: 23px;
+    opacity:1;
+    background-image: url(./Profile/img/DisneyHotstar-1585658620222.webp);
+    background-size:cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    z-index: 100;
+    border: 4px solid rgba(255, 255, 255, 0.562);
+  }
+  #coupon button{
+    color: rgba(255, 255, 255, 0.842);
+    background-color: rgb(255, 0, 0);
+    width: 40px;
+    float: right;
+    font-size: 25px;
+    border: none;
+    border-radius:0px 20px ;
+    z-index: 1;
+  }
+
+  #sub{
+    height:700px;
+    width: 600px;
+    background-color: rgb(42, 123, 123);
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 15%;
+    border-radius: 23px;
+    opacity:1;
+    background-image: url(./Profile/img/p-qclh-m4apnjposfvqgeyrsisrbtlhkiw.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    border: 4px solid rgba(255, 255, 255, 0.562);
+    z-index: 1;
+  }
+  #sub button{
+    color: rgba(255, 255, 255, 0.842);
+    background-color: rgb(255, 0, 0);
+    width: 40px;
+    float: right;
+    font-size: 25px;
+    border: none;
+    border-radius:0px 20px ;
+    z-index: 1;
+  }

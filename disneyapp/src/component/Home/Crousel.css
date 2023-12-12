@@ -1,0 +1,142 @@
+.crsl{
+    width: 94.15%;
+    margin-left:100px;
+    background-color:#0f1014;
+    height:auto;
+    border-bottom: 4px solid rgb(0, 0, 0);
+}
+.crsinner{
+    width: 100%;
+    height: auto;
+}
+.mov{
+    width: 100%;
+}
+.bb{
+    width: 100%;
+    height: 560px;
+}
+.bb img{
+    object-fit:cover;
+    opacity: 0.7;
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+    padding: 10px;
+}
+.hi{
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.movie-cont{
+    width: 300px;
+    height:fit-content;
+    padding: 10px;
+    background-color: #ffffff36;
+    border-radius: 10px;
+    margin-left: -12%;
+}
+.movie-cont img{
+    padding: 4%;
+    width: 70%;
+    background-color: #000000ad;
+    opacity: 1;
+}
+.movie-cont p{
+    width: 100%;
+    background: transparent;
+}
+.pp1{
+    width: 100%;
+    font-size: 18px;
+    color: white;
+    font:bold;
+    margin-top: 2%;
+}
+.pp1 b{
+    background-color: #0f101400;
+}
+.pp2{
+    width: 100%;
+    font-size: 16px;
+    color: rgba(235, 235, 235, 0.777);
+}
+.pp3{
+    font-size: 18px;
+    color: white;
+}
+.butn{
+    width: 100%;
+    background-color: rgba(240, 248, 255, 0);
+    /* background: transparent; */
+}
+.link{
+    background-color: rgba(240, 248, 255, 0);
+    color: rgba(240, 248, 255, 0);
+}
+.watch{
+    width: 75%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: hsla(0, 0%, 83%, 0.300);
+    color: aliceblue; 
+    font-size: 20px;
+    font-weight: 600;
+    margin-left:2% ;
+}
+.plus{
+    width: 15%;
+    height: 40px;
+    color: aliceblue;
+    border-radius: 10px;
+    border: none;
+    font-size: 22px;
+    font-weight: 600;
+    margin-left: 6%;
+    background-color: hsla(0, 0%, 83%, 0.300); 
+}
+.plus:hover{
+    background-color: hsla(0, 0%, 83%, 0.400);
+    transform: scale(1.05);
+}
+.watch:hover{
+    background-color: hsla(0, 0%, 83%, 0.400);
+    transform: scale(1.05);
+}
+@media only screen and (max-width:700px){
+    .crsl{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .bb{
+        height: 400px;
+    }
+    .hot-release{
+        margin-left: 0px;
+    }
+    .movie-cont{
+        width: 300px;
+        margin-bottom: -15px;
+        margin-left: -10%;
+
+    }
+    .movie-cont p{
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width:800px) {
+    .movie-cont img{
+        width: 54%;
+        margin-left:0% ;
+    }
+}
+
+.gpsl{
+    background-color: rgba(0, 0, 0, 0);
+    
+}
+.gpsr{
+    background-color: rgba(0, 0, 0, 0);
+    
+}

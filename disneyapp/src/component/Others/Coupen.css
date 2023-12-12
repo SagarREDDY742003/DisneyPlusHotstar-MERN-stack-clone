@@ -1,0 +1,23 @@
+#coupon{
+    height: 400px;
+    width: 70%;
+    background-color: rgb(42, 123, 123);
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 15%;
+    z-index: 10;
+    border-radius: 10px;
+    /* visibility: hidden; */
+    opacity:1;
+    background-image: url(../Profile/img/DisneyHotstar-1585658620222.webp);
+    background-size:cover;
+    background-repeat:no-repeat;
+  }
+  #coupon button{
+    width: auto;
+    float: right;
+    font-size: 25px;
+    border: none;
+    border-radius: 0px 10px 0px 10px ;
+    z-index: 1;
+  }
