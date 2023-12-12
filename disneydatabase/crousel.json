@@ -1,0 +1,125 @@
+[
+    {
+        "id":28,
+        "category_id":2,
+        "name":"Atrangi Re",
+        "img":"https://i.ibb.co/h8q63VR/1479828-v-dc931a991953.webp",
+        "big_img":"https://i.ibb.co/TL6wC4D/1597516-i-751da827e22b.webp",
+        "logo":"https://i.ibb.co/3f7WKT9/1608749-t-145919ccc335.webp",
+        "year":2021,
+        "duration": "2h 16m",
+        "nooflang":"2 Languages",
+        "rated":"U/A 13+",
+        "info":"Runaway Rinku gets forcefully married to an already engaged Vishu. The love triangle gets weirder when Rinku's lover Sajjad shows up.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Romance"
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            },
+            {
+                "cat_id":8,
+                "categorytype":"Comedy"
+            }
+        ]
+    },
+    {
+        "id":29,
+        "category_id":2,
+        "name":"Akhanda",
+        "img":"https://i.ibb.co/0cmsCsh/1104168-v-ba2198deb8fd.webp",
+        "big_img":"https://i.ibb.co/5RPpLkT/1433599-i-18f5d866e497.webp",
+        "logo":"https://i.ibb.co/jwyG7cS/1433601-t-0bb53d0d37c7.webp",
+        "year":2021 ,
+        "duration": "2h 47m",
+        "nooflang":"Telugu",
+        "rated":"U/A 16+",
+        "info":"Murali Krishna is a protector of his village. When he falls into Varadarajulu's trap, Akhanda arrives with the blessings of Lord Shiva and becomes their saviour.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":7,
+                "categorytype":"Adventure"
+            }
+        ]
+    },
+    {
+        "id":30,
+        "category_id":2,
+        "name":"Skanda",
+        "img":"https://i.ibb.co/Qd8DPRq/1621203-v-e60eb3a5f1b9.webp",
+        "big_img":"https://i.ibb.co/HCRhZCX/1621205-i-1ea3bcb395e6.webp",
+        "logo":"https://i.ibb.co/Tbs8B4N/1621204-t-2fb7bac0183f.webp",
+        "year":2023,
+        "duration": "2h 44m",
+        "nooflang":"4cLanguages",
+        "rated":"U/A 16+",
+        "info":"A headstrong Ram challenges the two influential CMs for a personal vendetta. Will this daring move bring about the reckoning he seeks?",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            }
+        ]
+    },
+    {
+        "id":31,
+        "category_id":2,
+        "name":"Indiana Jones",
+        "img":"https://i.ibb.co/Dt6dMG2/1628493-v-cef8f806c01d.webp",
+        "big_img":"https://i.ibb.co/YjxWJym/1630771-i-d241d32519f1.webp",
+        "logo":"https://i.ibb.co/zxyBXqX/1630770-t-b04921e76036.webp",
+        "year":2023,
+        "duration": "2h 34m",
+        "nooflang":"4Languages",
+        "rated":"U/A 13+",
+        "info":"When a series of mysterious events stirs pandemonium in a village, an eccentric cop Vikrant Rona sets out to solve the case wherein everyone is under the radar.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":7,
+                "categorytype":"Adventure"
+            },
+            {
+                "cat_id":5,
+                "categorytype":"Science Fiction"
+            }
+        ]
+    },
+    {
+        "id":32,
+        "category_id":2,
+        "name":"RRR",
+        "img":"https://i.ibb.co/YLZvdDW/1367771-i-695806f2c8e6.webp",
+        "big_img":"https://i.ibb.co/YLZvdDW/1367771-i-695806f2c8e6.webp",
+        "logo":"https://i.ibb.co/4JKcRYQ/1367773-t-d0d007d150e9.webp",
+        "year":2022 ,
+        "duration": "2h 25m",
+        "nooflang":"4Languages",
+        "rated":"U/A 16+",
+        "info":"Under the British Raj, two revolutionaries with personal agendas forge a friendship, only to find each other on opposing sides.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            }
+        ]
+    }
+]

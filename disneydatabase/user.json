@@ -1,0 +1,30 @@
+[
+    {
+        "name":"sagar",
+        "email":"sagar@gmail.com",
+        "password":"$2a$08$T3/DWpKy165Ek0Mf0HZ8KO4GgjmF1uJzIpfvU9q6ASqB9AUeVeNXO",
+        "phone":{"$numberInt":"12737463"},
+        "role":"User"
+    },
+    {
+        "name":"sagar",
+        "email":"sagar@gmail.com",
+        "password":"$2a$08$nmDwwuUEFeufbJ.q28kaIebtcQV/E/psSRUT1KS8VhvavkjjsdDO6",
+        "phone":{"$numberInt":"12737463"},
+        "role":"User"
+    },
+    {
+        "name":"basha",
+        "email":"basha@gmail.com",
+        "password":"$2a$08$vgMUTzcmWpaikwYYFdiHiugWfbRTbVtPdWO.4C9Jq/yTcacKQg552",
+        "phone":{"$numberInt":"77353627"},
+        "role":"User"
+    },
+    {
+        "name":"sushanth",
+        "email":"sushanth@gmail.com",
+        "password":"$2a$08$ZuNGlCBlcga3P5SYBzK99Or53pWdQhodC.3eU7elGmGnTt3YRgTpO",
+        "phone":{"$numberDouble":"7777777777.0"},
+        "role":"user"
+    }
+]

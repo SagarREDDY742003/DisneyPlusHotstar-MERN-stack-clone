@@ -1,0 +1,1663 @@
+[
+    {
+        "id":1,
+        "category_id":2,
+        "name":"Vikranth Rona",
+        "img":"https://i.ibb.co/XZFzdhH/vikranthrona.webp",
+        "big_img":"https://i.ibb.co/26Z8MpH/bigvr.webp",
+        "logo":"https://i.ibb.co/58zY8VZ/vrlogo.webp",
+        "year":2022 ,
+        "duration": "2h 25m",
+        "nooflang":"4Languages",
+        "rated":"U/A 16+",
+        "info":"When a series of mysterious events stirs pandemonium in a village, an eccentric cop Vikrant Rona sets out to solve the case wherein everyone is under the radar.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            },
+            {
+                "cat_id":3,
+                "categorytype":"Crime"
+            }
+        ]
+    },
+    {
+        "id":49,
+        "category_id":2,
+        "name":"Arjun Reddy",
+        "img":"https://i.ibb.co/vHTJY31/1599768-v-2343596abba8.webp",
+        "big_img":"https://i.ibb.co/v4b2yYG/1527593-i-c5046aeb1b81.webp",
+        "logo":"https://i.ibb.co/F4Rpt2Y/1527592-t-ac593b785561.webp",
+        "year":2017,
+        "duration": "2h 42m",
+        "nooflang":"Telugu",
+        "rated":"A",
+        "info":"A short-tempered yet brilliant young medical surgeon immerses himself in drugs and alcohol when his lady- love is forced to marry someone else.",
+        "type":[
+            {
+                "cat_id":4,
+                "categorytype":"Romance" 
+            }
+        ]
+    },
+    {
+        "id":50,
+        "category_id":2,
+        "name":"Chhichhore",
+        "img":"https://i.ibb.co/FJs3kFd/1599772-v-280d27fa8688.webp",
+        "big_img":"https://i.ibb.co/8rXB3gZ/1428929-i-0d0b15f61010.webp",
+        "logo":"https://i.ibb.co/0cY3VjH/1428931-t-03dff7b63412.webp",
+        "year":2019,
+        "duration": "2h 23m",
+        "nooflang":"Hindi",
+        "rated":"U/A  16+",
+        "info":"Divided by time, united by a tragic incident. In a bittersweet reunion, seven middle-aged friends take a walk down the memory lane at the least expected...",
+        "type":[
+            {
+                "cat_id":2,
+                "categorytype":"Drama" 
+            }
+        ]
+    },
+    {
+        "id":2,
+        "category_id":2,
+        "name":"Veerasimha Reddy",
+        "img":"https://i.ibb.co/HHP92m0/veerasimhareddy.webp",
+        "big_img":"https://i.ibb.co/8x5DZr5/big-veerasimhareddy.webp" ,
+        "logo": "https://i.ibb.co/kJTKyxM/veerasimhareddylogo.webp",
+        "year":2023,
+        "duration": "2h 49m",
+        "nooflang":"5 Languages",
+        "rated":"U/A 16+",
+        "info":"Jai's reunion with his long-lost influential father Veera gets chaotic when the latter's past returns to haunt him. How will Jai save Veera from his ill-fate?",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "category_id":2,
+        "name":"Dil Dechara",
+        "img":"https://i.ibb.co/jZmDDfr/dilbechara.webp",
+        "big_img":"https://i.ibb.co/FVkm5Qw/dilbechara.webp",
+        "logo":"https://i.ibb.co/09WqPDh/dilbecharalogo.webp",
+        "year":2020,
+        "duration": "1h 41m",
+        "nooflang":"Hindi",
+        "rated":"U/A 13+",
+        "info":"Brought together by a tragic twist, Kizie and Manny embark on a bittersweet journey into the heart of that crazy little thing called 'life'.",
+        "type":[
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            },
+            {
+                "cat_id":4,
+                "categorytype":"Romance"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "category_id":2,
+        "name":"Avatar The Way Of Water",
+        "img": "https://i.ibb.co/X5NrDMz/mov1.webp",
+        "big_img":"https://i.ibb.co/ccCvmm4/avatarthewayofwater.webp" ,
+        "logo":"https://i.ibb.co/Q8t4cP8/avatarlogo.webp",
+        "year":2022,
+        "duration": "3h 12m",
+        "nooflang":"6 languages",
+        "rated":"U/A 13+",
+        "info":"Set more than a decade after the first film, dive into the story of the Sully family; the lengths they go to keep each other safe and the tragedies they endure.",
+        "type":[
+            {
+                "cat_id":5,
+                "categorytype":"Science Fiction"
+            },
+            {
+                "cat_id":7,
+                "categorytype":"Adventure"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "category_id":2,
+        "name":"Super 30",
+        "img": "https://i.ibb.co/vQvhvZj/mov1.webp",
+        "big_img":"https://i.ibb.co/J5Cjy3H/super30.webp" ,
+        "logo":"https://i.ibb.co/xqfCbkp/super30logo.webp",
+        "year":2019,
+        "duration": "2h 33m",
+        "nooflang":"Hindi",
+        "rated":"U",
+        "info":"Based on the life of ace mathematician Anand Kumar, who trained 30 underprivileged students to crack one of the toughest entrance exams in India - IIT.",
+        "type":[
+            {
+                "cat_id":6,
+                "categorytype":"Biopic"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "category_id":2,
+        "name":"Ms.Dhoni",
+        "img": "https://i.ibb.co/2nc7Z4j/mov6.webp",
+        "big_img":"https://i.ibb.co/6tWFncc/msdhoni.webp" ,
+        "logo":"https://i.ibb.co/sCysj9C/msdhoni.webp",
+        "year":2016,
+        "duration": "2h 56m",
+        "nooflang":"Hindi",
+        "rated":"U",
+        "info":"A tell-all tale about the life and times of Indian cricketer Mahendra Singh Dhoni, mapping his journey from a ticket collector to a celebrated sportsman.",
+        "type":[
+            {
+                "cat_id":6,
+                "categorytype":"Biopic"
+            }
+        ]
+    },
+    {
+        "id":33,
+        "category_id":2,
+        "name":"Neeraj",
+        "img":"https://i.ibb.co/KLzwNY1/1000090704-v.webp",
+        "big_img":"https://i.ibb.co/ZWrGVnN/1429091-i-cf34c7a118a0.webp",
+        "logo":"https://i.ibb.co/9bZWLcM/1429094-t-7b0ee93a6bdf.webp",
+        "year":2016 ,
+        "duration": "1h 56m",
+        "nooflang":"Hindi",
+        "rated":"U/A 13+",
+        "info":"When a series of mysterious events stirs pandemonium in a village, an eccentric cop Vikrant Rona sets out to solve the case wherein everyone is under the radar.",
+        "type":[
+            {
+                "cat_id":6,
+                "categorytype":"Biopic"
+            }
+        ]
+    },
+    {
+        "id":34,
+        "category_id":2,
+        "name":"Gour Hari Dastaan",
+        "img":"https://i.ibb.co/nwqgSML/1770015481-v.webp",
+        "big_img":"https://i.ibb.co/RNM6Qzm/1370557-i-000f74f23389.webp",
+        "logo":"https://i.ibb.co/Ny2FKW9/1370559-t-0c4544aed7db.webp",
+        "year":2016,
+        "duration": "1h 50m",
+        "nooflang":"Hindi",
+        "rated":"U",
+        "info":"When a series of mysterious events stirs pandemonium in a village, an eccentric cop Vikrant Rona sets out to solve the case wherein everyone is under the radar.",
+        "type":[
+            {
+                "cat_id":6,
+                "categorytype":"Biopic"
+            }
+        ]
+    },
+    {
+        "id":35,
+        "category_id":2,
+        "name":"Aag Se Khelenge",
+        "img":"https://i.ibb.co/VqvVzHr/531274-v.webp",
+        "big_img":"https://i.ibb.co/0fX4mYt/1370200-i-6d0991f9b06c.webp",
+        "logo":"https://i.ibb.co/zXRPF4h/1370205-t-7767ce874059-1.webp",
+        "year":2016,
+        "duration": "1h 52m",
+        "nooflang":"Hindi",
+        "rated":"U/A  16+",
+        "info":"The film chronicles the life of MLA Vangaveeti Mohana Ranga from Vijayawada, who rose to power after his brother's murder and was assassinated in his prime.",
+        "type":[
+            {
+                "cat_id":6,
+                "categorytype":"Biopic"
+            }
+        ]
+    },
+    {
+        "id":7,
+        "category_id":2,
+        "name":"Avengers Endgame",
+        "img": "https://i.ibb.co/ckKN8Bw/mov7.webp",
+        "big_img":"https://i.ibb.co/X5CF9bR/endgame.webp" ,
+        "logo":"https://i.ibb.co/x2FWdnd/endgamelogo.webp",
+        "year":2019,
+        "duration": "3h 1m",
+        "nooflang":"4 languages",
+        "rated":"U/A 13+",
+        "info":"After the devastating events of the Infinity War, the Avengers assemble once more to reverse Thanos' actions and restore balance to the universe.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":11,
+                "categorytype":"Superhero"
+            },
+            {
+                "cat_id":12,
+                "categorytype":"Fantasy"
+            }
+        ]
+    },
+    {
+        "id":8,
+        "category_id":2,
+        "name":"Guardians of the Galaxy",
+        "img": "https://i.ibb.co/54ghMrk/mov1.webp",
+        "big_img":"https://i.ibb.co/sQ9DZdC/guardiansofthegalaxy.webp" ,
+        "logo":"https://i.ibb.co/bRgsMHn/guardianslogo.webp",
+        "year":2023,
+        "duration": "2h 29m",
+        "nooflang":"5 languages",
+        "rated":"U/A 16+",
+        "info":"Set more than a decade after the first film, dive into the story of the Sully family; the lengths they go to keep each other safe and the tragedies they endure.",
+        "type":[
+            {
+                "cat_id":7,
+                "categorytype":"Adventure"
+            },
+            {
+                "cat_id":11,
+                "categorytype":"Superhero"
+            }
+        ]
+    },
+    {
+        "id":9,
+        "category_id":2,
+        "name":"Bahubali 2",
+        "img": "https://i.ibb.co/DC177g6/mov5.webp",
+        "big_img":"https://i.ibb.co/gP6cHBs/baahubaliing.webp" ,
+        "logo":"https://i.ibb.co/GFLS5DF/baahubali2.webp",
+        "year":2017,
+        "duration": "2h 40m",
+        "nooflang":"Telugu",
+        "rated":"U/A 16+",
+        "info":"Why did Kattappa kill Amarendra Baahubali? Unveil the mystery and many more secrets that lie in the depths of the Mahishmati kingdom.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":12,
+                "categorytype":"Fantasy"
+            }
+        ]
+    },
+    {
+        "id":10,
+        "category_id":2,
+        "name":"Venom",
+        "img": "https://i.ibb.co/5WjRhNd/mov5.webp",
+        "big_img":"https://i.ibb.co/KKMRrpq/venomimg.webp" ,
+        "logo":"https://i.ibb.co/TqqS6Ff/venom.webp",
+        "year":2022,
+        "duration": "3h 12m",
+        "nooflang":"6 languages",
+        "rated":"U/A 13+",
+        "info":"Set more than a decade after the first film, dive into the story of the Sully family; the lengths they go to keep each other safe and the tragedies they endure.",
+        "type":[
+            {
+                "cat_id":5,
+                "categorytype":"Science Fiction"
+            },
+            {
+                "cat_id":7,
+                "categorytype":"Adventure"
+            },
+            {
+                "cat_id":12,
+                "categorytype":"Fantasy"
+            }
+        ]
+    },
+    {
+        "id":11,
+        "category_id":1,
+        "name":"Big Boss",
+        "img": "https://i.ibb.co/0mGVrr0/mov-5.webp",
+        "big_img":"https://i.ibb.co/7pGMJ2T/bigbosslogo.webp" ,
+        "logo":"https://i.ibb.co/cbYk3CG/bigboss.webp",
+        "year":2023,
+        "duration": "8 Seasons ",
+        "nooflang":"Telugu",
+        "rated":"U/A 16+",
+        "info":"It's time for real entertainment with Nagarjuna, in a whirlwind of unexpected twists, conflicts and surprises. This season, everything will be 'ulta pulta'!",
+        "type":[
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            }
+        ]
+    },
+    {
+        "id":12,
+        "category_id":1,
+        "name":"Adhivaram with star maa parivar",
+        "img": "https://i.ibb.co/Z2nKH9v/img6.webp",
+        "big_img":"https://i.ibb.co/PFsM7Tq/starmaaparivar.webp" ,
+        "logo":"https://i.ibb.co/NrX2Xzf/starmaaloogo.webp",
+        "year":2023,
+        "duration": "2 seasons",
+        "nooflang":"Telugu",
+        "rated":"U/A 13+",
+        "info":"Hosted by Sreemukhi, get ready for non-stop entertainment as your favourite Maa families play musical games and challenge each other for cash..",
+        "type":[
+            {
+                "cat_id":8,
+                "categorytype":"Comedy"
+            }
+        ]
+    },
+    {
+        "id":13,
+        "category_id":1,
+        "name":"Sixth Sense",
+        "img": "https://i.ibb.co/64yM0wc/img4.webp",
+        "big_img":"https://i.ibb.co/pdcCW3g/sixthsence.webp" ,
+        "logo":"https://i.ibb.co/PcxQxB0/sixthsence.webp",
+        "year":2023,
+        "duration": "2 Seasons",
+        "nooflang":"Telugu",
+        "rated":"U/A 13+",
+        "info":"Guess it right to win it all! Everyone's favourite host Ohmkar is back with a brand new season of challenging mind games. Are you ready?",
+        "type":[
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            },
+            {
+                "cat_id":8,
+                "categorytype":"Comedy"
+            }
+        ]
+    },
+    {
+        "id":14,
+        "category_id":1,
+        "name":"Radha Krishna",
+        "img": "https://i.ibb.co/g3BwL7m/img2.webp",
+        "big_img":"https://i.ibb.co/Dz8P4kF/radhakrishna.webp" ,
+        "logo":"https://i.ibb.co/6Bq0hQX/1379462-t-997d9a74ef8f.webp",
+        "year":2023,
+        "duration": "2 Seasons",
+        "nooflang":"Telugu",
+        "rated":"U/A 13+",
+        "info":"Radha's love for Lord Krishna knows no bounds. Their eternal love has stood the test of time. Here's a soulful re-telling of this supreme tale of romance and sacrifice.",
+        "type":[
+            {
+                "cat_id":4,
+                "categorytype":"Romance"
+            },
+            {
+                "cat_id":9,
+                "categorytype":"Mythology"
+            }
+        ]
+    },
+    {
+        "id":15,
+        "category_id":1,
+        "name":"Mahabharatham",
+        "img":"https://i.ibb.co/G0J48Dp/img7.webp",
+        "big_img":"https://i.ibb.co/7Jx2yJX/mahabharatam.webp" ,
+        "logo":"https://i.ibb.co/4jxjzQW/Maha-Bharatam.webp",
+        "year":2015,
+        "duration":"10 Seasons",
+        "nooflang":"Telugu",
+        "rated":"U/A 13+",
+        "info":"Watch the rivalry of the Pandavas and Kauravas culminate in the Kurukshetra war in Mahabharatham, driven by the razor-sharp strategies of Krishna, the...",
+        "type":[
+            {
+                "cat_id":9,
+                "categorytype":"Mythology"
+            }
+        ]
+    },
+    {
+        "id":16,
+        "category_id":1,
+        "name":"Dear Ishq",
+        "img": "https://i.ibb.co/bQR7NnL/img1.webp",
+        "big_img":"https://i.ibb.co/XJcmdk4/1467850-i-c2af5f5e6e0f.webp" ,
+        "logo":"https://i.ibb.co/mSZk4zw/1467849-t-1ecbcbae1338.webp",
+        "year":2023,
+        "duration": "1 Season",
+        "nooflang":"Gindi",
+        "rated":"U/A 16+",
+        "info":"Famous author Abhimanyu gets swept up in a cutthroat challenge with Asmita, for whom life is beyond paperback fiction. In the face of rivalry, will love bloom?",
+        "type":[
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            },
+            {
+                "cat_id":4,
+                "categorytype":"Romance"
+            }
+        ]
+    },
+    {
+        "id":17,
+        "category_id":1,
+        "name":"Dance Plus",
+        "img": "https://i.ibb.co/82qc3yT/img7.webp",
+        "big_img":"https://i.ibb.co/17856QG/1413949-i-5e15506e6b9c.webp" ,
+        "logo":"https://i.ibb.co/Czs3Zmv/1413951-t-e9f90d659617.webp",
+        "year":2022,
+        "duration": "2 Seasons",
+        "nooflang":"Hindi",
+        "rated":"U/A 13+",
+        "info":"Remo is back with a bang to hunt for the next dance icon with host Raghav, and captains Punit, Shakti and Salman. The biggest dance battle of the year is here!",
+        "type":[
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            }
+        ]
+    },
+    {
+        "id":18,
+        "category_id":1,
+        "name":"Anupuma",
+        "img": "https://i.ibb.co/wLCcCMR/img2.webp",
+        "big_img":"https://i.ibb.co/RjT1wbL/1413841-i-27f3dcec4f73.webp" ,
+        "logo":"https://i.ibb.co/0BjfNYQ/1413843-t-83385a504c92.webp",
+        "year":2023,
+        "duration": "3h 12m",
+        "nooflang":"Hindi",
+        "rated":"U/A 13+",
+        "info":"TODAY'S EP IS DELAYED. Despite the many challenges thrown her way, Anupama begins a new chapter of her life post-divorce. Head held always high, what's waitin...",
+        "type":[
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            }
+        ]
+    },
+    {
+        "id":19,
+        "category_id":1,
+        "name":"Mangalyan",
+        "img": "https://i.ibb.co/ZSDzz4M/img1.webp",
+        "big_img":"https://i.ibb.co/R7ffVFj/1571660-i-954ae733b7f7.webp" ,
+        "logo":"https://i.ibb.co/4KkKxF6/1571658-t-e90f07441d6a.webp",
+        "year":2023,
+        "duration": "3m",
+        "nooflang":"5 languages",
+        "rated":"U/A",
+        "info":"PM Modi and ISRO scientists celebrate the landmark success of Managlyaan's entry into the orbit of Mars.",
+        "type":[
+            {
+                "cat_id":5,
+                "categorytype":"Science Fiction"
+            }
+        ]
+    },
+    {
+        "id":20,
+        "category_id":1,
+        "name":"Mickey Mouse",
+        "img": "https://i.ibb.co/jVDHpxy/mov7.webp",
+        "big_img":"https://i.ibb.co/7Wvg5ny/1547444-i-a96d520c57ae.webp" ,
+        "logo":"https://i.ibb.co/7SPLYWN/1547443-t-f81aa68eeb3a.webp",
+        "year":2022,
+        "duration": "12m",
+        "nooflang":"English",
+        "rated":"U",
+        "info":"Mickey and gang must stop hundreds of old film reel versions of Mickey from wreaking havoc all over town.",
+        "type":[
+            {
+                "cat_id":10,
+                "categorytype":"Kids"
+            }
+        ]
+    },
+    {
+        "id":21,
+        "category_id":3,
+        "name":"NED vs AFG",
+        "img": "https://i.ibb.co/kD8c0NP/1621003-i-b95e46e1ebbe.webp",
+        "big_img":"https://i.ibb.co/kD8c0NP/1621003-i-b95e46e1ebbe.webp" ,
+        "logo":"https://i.ibb.co/4PzvS3h/1621005-t-ff66088d984b.webp",
+        "year":2023,
+        "duration": "6m",
+        "nooflang":"4 Languages",
+        "rated":"U",
+        "info":"Netherlands take on Afghanistan in the ICC Men's Cricket World Cup 2023 match at Lucknow and here's everything you need to know",
+        "type":"Cricket"
+    }, 
+    {
+        "id":22,
+        "category_id":3,
+        "name":"IND vs SL",
+        "img": "https://i.ibb.co/znFPLVj/1621575-i-32fc971bad3b.webp",
+        "big_img":"https://i.ibb.co/znFPLVj/1621575-i-32fc971bad3b.webp" ,
+        "logo":"https://i.ibb.co/dmZCbzX/1621577-t-fb195cd752fc.webp",
+        "year":2023,
+        "duration": "14m",
+        "nooflang":"4 languages",
+        "rated":"U",
+        "info":"The Men In Blue secured a semi-final berth in some style as they ran through Sri Lanka by a whopping 302-runs in ICC Men's Cricket World Cup 2023",
+        "type":"Cricket"
+    }, 
+    {
+        "id":23,
+        "category_id":3,
+        "name":"ENG vs AUS",
+        "img": "https://i.ibb.co/Gt7ymnh/1621558-i-a70b67a81164.webp",
+        "big_img":"https://i.ibb.co/Gt7ymnh/1621558-i-a70b67a81164.webp" ,
+        "logo":"https://i.ibb.co/ykdYswZ/1621557-t-750839f61635.webp",
+        "year":2023,
+        "duration": "14m",
+        "nooflang":"4 languages",
+        "rated":"U",
+        "info":"England take on Australia in the ICC Men's Cricket World Cup 2023 match at Ahmedabad and here's everything you need to know",
+        "type":"Cricket"
+    },
+    {
+        "id":24,
+        "category_id":3,
+        "name":"NZ vs PAK",
+        "img": "https://i.ibb.co/sWy1WTs/1621539-i-52fd9c73b3f2.webp",
+        "big_img":"https://i.ibb.co/sWy1WTs/1621539-i-52fd9c73b3f2.webp" ,
+        "logo":"https://i.ibb.co/92p2xvS/1621538-t-72fedf8cd645.webp",
+        "year":2023,
+        "duration": "14m",
+        "nooflang":"4 languages",
+        "rated":"U",
+        "info":"New Zealand take on Pakistan in the ICC Men's Cricket World Cup 2023 match at Bengaluru and here's everything you need to know",
+        "type":"Cricket"
+    },
+    {
+        "id":25,
+        "category_id":3,
+        "name":"NZ vs SA",
+        "img": "https://i.ibb.co/mvNLNd4/1621154-i-918ff00e682b.webp",
+        "big_img":"https://i.ibb.co/mvNLNd4/1621154-i-918ff00e682b.webp" ,
+        "logo":"https://i.ibb.co/p4rj4BW/1621155-t-f7dbc2a8c465.webp",
+        "year":2023,
+        "duration": "14m",
+        "nooflang":"4 languages",
+        "rated":"U",
+        "info":"South Africa piled on yet another 350+ score before the bowlers delivered a 190-run win to upstage New Zealand in ICC Men's Cricket World Cup 2023",
+        "type":"Cricket"
+    },
+    {
+        "id":26,
+        "category_id":3,
+        "name":"Tottenham vs Chelsea",
+        "img": "https://i.ibb.co/3THG8pw/1621502-i-34adab846d9a.webp",
+        "big_img":"https://i.ibb.co/3THG8pw/1621502-i-34adab846d9a.webp" ,
+        "logo":"",
+        "year":2023,
+        "duration": "14m",
+        "nooflang":"4 languages",
+        "rated":"U",
+        "info":"Tottenham host Chelsea in Gameweek 11 of Premier League 2023/24 and these are the best moments from this heated rivalry",
+        "type":"Football"
+    },
+    {
+        "id":27,
+        "category_id":3,
+        "name":"Diamondbacks",
+        "img": "https://i.ibb.co/GQM8dN4/1621386-i-bc496121d8a6.webp",
+        "big_img":"https://i.ibb.co/GQM8dN4/1621386-i-bc496121d8a6.webp" ,
+        "logo":"",
+        "year":2023,
+        "duration": "14m",
+        "nooflang":"4 languages",
+        "rated":"U",
+        "info":"Watch highlights of the fifth game between Arizona Diamondbacks and Texas Rangers in the MLB World Series 2023",
+        "type":"Baseball"
+    },
+    {
+        "id":28,
+        "category_id":2,
+        "name":"Atrangi Re",
+        "img":"https://i.ibb.co/h8q63VR/1479828-v-dc931a991953.webp",
+        "big_img":"https://i.ibb.co/TL6wC4D/1597516-i-751da827e22b.webp",
+        "logo":"https://i.ibb.co/3f7WKT9/1608749-t-145919ccc335.webp",
+        "year":2021,
+        "duration": "2h 16m",
+        "nooflang":"2 Languages",
+        "rated":"U/A 13+",
+        "info":"Runaway Rinku gets forcefully married to an already engaged Vishu. The love triangle gets weirder when Rinku's lover Sajjad shows up.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Romance"
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            },
+            {
+                "cat_id":8,
+                "categorytype":"Comedy"
+            }
+        ]
+    },
+    {
+        "id":29,
+        "category_id":2,
+        "name":"Akhanda",
+        "img":"https://i.ibb.co/0cmsCsh/1104168-v-ba2198deb8fd.webp",
+        "big_img":"https://i.ibb.co/5RPpLkT/1433599-i-18f5d866e497.webp",
+        "logo":"https://i.ibb.co/jwyG7cS/1433601-t-0bb53d0d37c7.webp",
+        "year":2021 ,
+        "duration": "2h 47m",
+        "nooflang":"Telugu",
+        "rated":"U/A 16+",
+        "info":"Murali Krishna is a protector of his village. When he falls into Varadarajulu's trap, Akhanda arrives with the blessings of Lord Shiva and becomes their saviour.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Adventure"
+            }
+        ]
+    },
+    {
+        "id":30,
+        "category_id":2,
+        "name":"Skanda",
+        "img":"https://i.ibb.co/Qd8DPRq/1621203-v-e60eb3a5f1b9.webp",
+        "big_img":"https://i.ibb.co/HCRhZCX/1621205-i-1ea3bcb395e6.webp",
+        "logo":"https://i.ibb.co/Tbs8B4N/1621204-t-2fb7bac0183f.webp",
+        "year":2023,
+        "duration": "2h 44m",
+        "nooflang":"4cLanguages",
+        "rated":"U/A 16+",
+        "info":"A headstrong Ram challenges the two influential CMs for a personal vendetta. Will this daring move bring about the reckoning he seeks?",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            }
+        ]
+    },
+    {
+        "id":31,
+        "category_id":2,
+        "name":"Indiana Jones",
+        "img":"https://i.ibb.co/Dt6dMG2/1628493-v-cef8f806c01d.webp",
+        "big_img":"https://i.ibb.co/YjxWJym/1630771-i-d241d32519f1.webp",
+        "logo":"https://i.ibb.co/zxyBXqX/1630770-t-b04921e76036.webp",
+        "year":2023,
+        "duration": "2h 34m",
+        "nooflang":"4Languages",
+        "rated":"U/A 13+",
+        "info":"When a series of mysterious events stirs pandemonium in a village, an eccentric cop Vikrant Rona sets out to solve the case wherein everyone is under the radar.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Adventure"
+            },
+            {
+                "cat_id":3,
+                "categorytype":"Science Fiction"
+            }
+        ]
+    },
+    {
+        "id":32,
+        "category_id":2,
+        "name":"RRR",
+        "img":"https://i.ibb.co/YLZvdDW/1367771-i-695806f2c8e6.webp",
+        "big_img":"https://i.ibb.co/YLZvdDW/1367771-i-695806f2c8e6.webp",
+        "logo":"https://i.ibb.co/4JKcRYQ/1367773-t-d0d007d150e9.webp",
+        "year":2022 ,
+        "duration": "2h 25m",
+        "nooflang":"4Languages",
+        "rated":"U/A 16+",
+        "info":"Under the British Raj, two revolutionaries with personal agendas forge a friendship, only to find each other on opposing sides.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Drama"
+            }
+        ]
+    },
+    {
+        "id":36,
+        "category_id":1,
+        "name":"Legend Hanuman",
+        "img":"https://i.ibb.co/Hp8wJ7p/1630369-v-47859e6981f8.webp",
+        "big_img":"https://i.ibb.co/hYxrs8C/1630371-i-e5228d9cedbb.webp",
+        "logo":"https://i.ibb.co/qWsXtzt/1630370-t-761d303a4ce1.webp",
+        "year":2021 ,
+        "duration": "2 Seasons",
+        "nooflang":"7 Languages",
+        "rated":"U/A 7+",
+        "info":"Hanuman has realised his limitless powers, and now he must journey alone to Lanka to face the night the demon king Ravan, his fierce sons and his armies",
+        "type":[
+            {
+                "cat_id":9,
+                "categorytype":"Mythology"
+            }
+        ]
+    },
+    {
+        "id":37,
+        "category_id":1,
+        "name":"Hara Hara Mahadev",
+        "img":"https://i.ibb.co/4Z31Wt2/862876-v.webp",
+        "big_img":"https://i.ibb.co/qBhXmqF/1378976-i-7e26d648962a.webp",
+        "logo":"https://i.ibb.co/2Zd0pvF/1378978-t-af33668fb12c.webp",
+        "year":2014 ,
+        "duration": "36 Seasons",
+        "nooflang":"Hindi",
+        "rated":"U/A 13+",
+        "info":"He is the supreme being and the destroyer of evil. Witness lord Shiva's story, his avatars, and a union that shaped the universe - his marriage to Parvati.",
+        "type":[
+            {
+                "cat_id":9,
+                "categorytype":"Mythology"
+            }
+        ]
+    },
+    {
+        "id":38,
+        "category_id":1,
+        "name":"Murugan",
+        "img":"https://i.ibb.co/rZK8cMM/15303-v.webp",
+        "big_img":"https://i.ibb.co/6Nv6Ypk/1378570-i-3e88460d20f1.webp",
+        "logo":"https://i.ibb.co/XkDsdH4/1378572-t-0c0d91fae878.webp",
+        "year":2018,
+        "duration": "2 Seasons",
+        "nooflang":"Tamil",
+        "rated":"U/A 13+",
+        "info":"Does the birth story of Lord Murugan intrigue you? Discover interesting known and unknown tales around Lord Murugan in this series.",
+        "type":[
+            {
+                "cat_id":9,
+                "categorytype":"Mythology"
+            }
+        ]
+    },
+    {
+        "id":39,
+        "category_id":1,
+        "name":"Janaki Ramudu",
+        "img":"https://i.ibb.co/CWxkpM8/7073-v.webp",
+        "big_img":"https://i.ibb.co/VJrrJNM/1377194-i-37ab475e2d0a.webp",
+        "logo":"https://i.ibb.co/nCBsJHj/1377196-t-cea1a25ce41b.webp",
+        "year":2017,
+        "duration": "10 Seasons",
+        "nooflang":"Telugu",
+        "rated":"U/A 13+",
+        "info":"Janaki Ramudu is the classic epic of Ramayana retold through the eyes of the righteous, beautiful and brave Janaki and her immense love for Rama!",
+        "type":[
+            {
+                "cat_id":9,
+                "categorytype":"Mythology"
+            }
+        ]
+    },
+    {
+        "id":40,
+        "category_id":1,
+        "name":"Loki",
+        "img":"https://i.ibb.co/ydrPnKy/1607030-v-924e1d5a7914.webp",
+        "big_img":"https://i.ibb.co/f1ZwRxP/1607033-i-d6f937c102ac.webp",
+        "logo":"https://i.ibb.co/zmrsYZ0/1607032-t-73a2c8df16e9.webp",
+        "year":2023,
+        "duration": "2 Seasons",
+        "nooflang":"4 Languages",
+        "rated":"U/A 13+",
+        "info":"The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of 'Avengers: Endgame.'",
+        "type":[
+            {
+                "cat_id":11,
+                "categorytype":"Superhero"
+            }
+        ]
+    },
+    {
+        "id":41,
+        "category_id":2,
+        "name":"Thor",
+        "img":"https://i.ibb.co/PhQN17T/1328311-v-abc8a4c662e4.webp",
+        "big_img":"https://i.ibb.co/q9hTLyn/1365285-i-fe1d56ee6b43-1.webp",
+        "logo":"https://i.ibb.co/q1Zy9k5/1365287-t-9b7448a95309.webp",
+        "year":2022,
+        "duration": "1h 58m",
+        "nooflang":"6 languages",
+        "rated":"U/A 13+",
+        "info":"The God of Thunder teams up with King Valkyrie, Korg and ex-girlfriend-turned-Mighty-Thor Jane Foster to take on a galactic killer known as Gorr the God Butcher.",
+        "type":[
+            {
+                "cat_id":11,
+                "categorytype":"Superhero"
+            },
+            {
+                "cat_id":7,
+                "categorytype":"Adventure"
+            },
+            {
+                "cat_id":5,
+                "categorytype":"Science Fiction"
+            }
+        ]
+    },
+    {
+        "id":51,
+        "category_id":2,
+        "name":"Antman",
+        "img":"https://i.ibb.co/LzDTJM9/675526-v.webp",
+        "big_img":"https://i.ibb.co/D7JCXmY/1369389-i-47abe651fff0.webp",
+        "logo":"https://i.ibb.co/xH6jVz1/1369397-t-60c8791dcda7.webp",
+        "year":2015,
+        "duration": "1h 57m",
+        "nooflang":"4 languages",
+        "rated":"U/A 13+",
+        "info":"Cat burglar Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.",
+        "type":[
+            {
+                "cat_id":11,
+                "categorytype":"Superhero"
+            },
+            {
+                "cat_id":12,
+                "categorytype":"Fantasy"
+            }
+        ]
+    },
+    {
+        "id":42,
+        "category_id":2,
+        "name":"Black Panther",
+        "img":"https://i.ibb.co/0qFKzW1/875181-v.webp",
+        "big_img":"https://i.ibb.co/Cbpzphf/796719-i.webp",
+        "logo":"https://i.ibb.co/r4DYQ41/1410635-t-847283699e19.webp",
+        "year":2018,
+        "duration": "2h 14m",
+        "nooflang":"4 Languages",
+        "rated":"U/A 13+",
+        "info":"T'Challa, heir to the hidden kingdom of Wakanda, must lead his people into a new future and confront a challenger from his country's past.",
+        "type":[
+            {
+                "cat_id":11,
+                "categorytype":"Superhero"
+            }
+        ]
+    },
+    {
+        "id":43,
+        "category_id":2,
+        "name":"Shang Chi",
+        "img":"https://i.ibb.co/BZcdpht/1075903-v-78f8f3679322.webp",
+        "big_img":"https://i.ibb.co/nPVQLFL/1369296-i-9c4de25be85b.webp",
+        "logo":"https://i.ibb.co/0hbs48h/1369298-t-e0c9c01fca08.webp",
+        "year":2021,
+        "duration": "2h 12m",
+        "nooflang":"6 languages",
+        "rated":"U/A 13+",
+        "info":"Shang-Chi, a martial arts master, must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+        "type":[
+            {
+                "cat_id":11,
+                "categorytype":"Superhero"
+            },
+            {
+                "cat_id":7,
+                "categorytype":"Adventure"
+            }
+        ]
+    },
+    {
+        "id":44,
+        "category_id":2,
+        "name":"Cadaver",
+        "img":"https://i.ibb.co/CVhhwY4/1622477-v-c1dc73ba3d60.webp",
+        "big_img":"https://i.ibb.co/g3GZdhg/1622479-i-48fcf81b0925.webp",
+        "logo":"https://i.ibb.co/0j9fCFC/1622478-t-c4cd061364e0.webp",
+        "year":2022,
+        "duration": "1h 59m",
+        "nooflang":"5 languages",
+        "rated":"U/A 16+",
+        "info":"A high-profile murder baffles the cops when a prison inmate claims responsibility and promises more deaths. Will police surgeon Bhadra crack this mystery?",
+        "type":[
+            {
+                "cat_id":2,
+                "categorytype":"Drama"  
+            },
+            {
+                "cat_id":3,
+                "categorytype":"Crime" 
+            }
+        ]
+    },    
+    {
+        "id":45,
+        "category_id":2,
+        "name":"Raid",
+        "img":"https://i.ibb.co/VtJPVL1/1000212789-v.webp",
+        "big_img":"https://i.ibb.co/PtHqppq/1375390-i-e84e2e51b750.webp",
+        "logo":"https://i.ibb.co/hMKXyr8/1375392-t-a58dd666491a.webp",
+        "year":2018,
+        "duration": "1h 55m",
+        "nooflang":"Hindi",
+        "rated":"U/A 13+",
+        "info":"Fearless income tax officer Amay Patnaik carries out a risky raid at the mansion of the most powerful man in Lucknow. Inspired by real-life events.",
+        "type":[
+            {
+                "cat_id":3,
+                "categorytype":"Crime"
+            }
+        ]
+    },
+    {
+        "id":46,
+        "category_id":2,
+        "name":"Good Luck Jerry",
+        "img":"https://i.ibb.co/1LpbzZ8/1565696-v-ad4d4a6d62a8.webp",
+        "big_img":"https://i.ibb.co/K6qvk5F/1577746-i-1d03dd00561f.webp",
+        "logo":"https://i.ibb.co/6NdrcKD/1608740-t-145bfc96e414.webp",
+        "year":2022,
+        "duration": "1h 58m",
+        "nooflang":"Hindi",
+        "rated":"A",
+        "info":"In dire need of money, Jerry gets drawn into the dangerous world of drug trafficking. Things go awry when she decides to quit.",
+        "type":[
+            {
+                "cat_id":3,
+                "categorytype":"Crime"
+            },
+            {
+                "cat_id":8,
+                "categorytype":"Comedy"
+            }
+        ]
+    },
+    {
+        "id":47,
+        "category_id":2,
+        "name":"Vikram Vedha",
+        "img":"https://i.ibb.co/fkqWN96/146754-v.webp",
+        "big_img":"https://i.ibb.co/Nx7bZ5d/1375429-i-328699f63803.webp",
+        "logo":"https://i.ibb.co/9cgCHgF/1375431-t-928ce13443ba.webp",
+        "year":2018,
+        "duration": "2h 16m",
+        "nooflang":"Tamil",
+        "rated":"U/A 13+",
+        "info":"When an attempt is made on the life of a reigning gangster, his three sons take it upon themselves to hunt the culprit, all amid a succession battle.",
+        "type":[
+            {
+                "cat_id":1,
+                "categorytype":"Action"   
+            },
+            {
+                "cat_id":3,
+                "categorytype":"Crime" 
+            }
+        ]
+    },
+    {
+        "id":48,
+        "category_id":2,
+        "name":"Mastero",
+        "img":"https://i.ibb.co/RH9JrKy/1565785-v-2f33c479875d.webp",
+        "big_img":"https://i.ibb.co/nCXvpw3/1577886-i-8456667fe28b.webp",
+        "logo":"https://i.ibb.co/svqFGt8/1608744-t-8632c66c2754.webp",
+        "year":2021,
+        "duration": "2h 15m",
+        "nooflang":"Telugu",
+        "rated":"U/A 16+",
+        "info":"A 'blind' pianist lands in hot water when he witnesses a crime during a private concert. Trapped in a catch-22 situation, Arun is in for an unpleasant ride.",
+        "type":[
+            {
+                "cat_id":3,
+                "categorytype":"Crime" 
+            }
+        ]
+    },
+    {
+        "id":52,
+        "category_id":1,
+        "name":"Bramhamudi",
+        "img":"https://i.ibb.co/vYd3J7q/1546616-v-d6b40c4353e9.webp",
+        "big_img":"https://i.ibb.co/9rwgQTy/1546618-i-1260824ab933.webp",
+        "logo":"https://i.ibb.co/0nMLcV2/1546617-t-87574ca3de8f.webp",
+        "year":2023,
+        "duration": "1 Season",
+        "nooflang":"Telugu",
+        "rated":"U/A 13+",
+        "info":"The lives of Kavya and her sisters change forever as they cross paths with the Duggiraala brothers. As fate brings them closer, what's in store for them?",
+        "type":[
+            {
+                "cat_id":4,
+                "categorytype":"Romance" 
+            },
+            {
+                "category-id":2,
+                "categorytype":"Drama" 
+            }
+        ]
+    },
+    {
+        "id":53,
+        "category_id":1,
+        "name":"Rain or Shine",
+        "img":"https://i.ibb.co/KNNLGW0/1312777-v-a5f9a07f3be6.webp",
+        "big_img":"https://i.ibb.co/hC71FvW/1428047-i-6285836b07c7.webp",
+        "logo":"https://i.ibb.co/KxQVqTr/1428049-t-ea8de077b1c6.webp",
+        "year":2018,
+        "duration": "1 Season",
+        "nooflang":"4 Languages",
+        "rated":"U/A 16+",
+        "info":"Shang-Chi, a martial arts master, must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+        "type":[
+            {
+                "cat_id":4,
+                "categorytype":"Romance" 
+            }
+        ]
+    },
+    {
+        "id":54,
+        "category_id":2,
+        "name":"Prem Ratan Dhan Payo",
+        "img":"https://i.ibb.co/qnhb5bj/1000084315-v.webp",
+        "big_img":"https://i.ibb.co/z6hfXCW/1368462-i-ac8977d9e804.webp",
+        "logo":"https://i.ibb.co/FHpKSbX/1368464-t-aadde1b801d2.webp",
+        "year":2015,
+        "duration": "2h 28m",
+        "nooflang":"Hindi",
+        "rated":"U",
+        "info":"Crown Prince Yuvraj Vijay Singh and his doppelganger, a carefree stage actor, Prem Dilwale's lives get entangled in a royal battle of romance and deceit.",
+        "type":[
+            {
+                "cat_id":4,
+                "categorytype":"Romance" 
+            }
+        ]
+    },
+    {
+        "id":55,
+        "category_id":2,
+        "name":"Hero",
+        "img":"https://i.ibb.co/7Vg7GDF/1000074190-v.webp",
+        "big_img":"https://i.ibb.co/ZXZ2pmn/1432125-i-e77199ba2588.webp",
+        "logo":"https://i.ibb.co/vPBdXNY/1432127-t-ae97aa2cc0ab.webp",
+        "year":2015,
+        "duration": "2h 3m",
+        "nooflang":"Hindi",
+        "rated":"U/A 13+",
+        "info":"A gangster's son kidnaps the daughter of the Chief of Police, as her father has some crucial evidence. While the police chase the two, love blooms between them.",
+        "type":[
+            {
+                "cat_id":4,
+                "categorytype":"Romance" 
+            }
+        ]
+    },
+    {
+        "id":56,
+        "category_id":2,
+        "name":"83",
+        "img":"https://i.ibb.co/k0D9573/1160608-v-8680160dd6b2.webp",
+        "big_img":"https://i.ibb.co/BL8pKJ9/1408243-i-df82ea1b7b20.webp",
+        "logo":"https://i.ibb.co/JchhXL1/1408245-t-6454b1dd71e4.webp",
+        "year":2021,
+        "duration": "2h 40m",
+        "nooflang":"5 Languages",
+        "rated":"U/A 7+",
+        "info":"Chronicling the historic 1983 Cricket World Cup, thirteen underdogs led by Kapil Dev fight and win against all odds to put India on the map.",
+        "type":[
+            {
+                "cat_id":6,
+                "categorytype":"Biopic" 
+            }
+        ]
+    },
+    {
+        "id":57,
+        "category_id":2,
+        "name":"Sanju",
+        "img":"https://i.ibb.co/TcyXQhm/64665-v.webp",
+        "big_img":"https://i.ibb.co/j8xjLV4/1369007-i-f060dfdde3c1.webp",
+        "logo":"https://i.ibb.co/n86gffY/1369009-t-aa03392b206f.webp",
+        "year":2018,
+        "duration": "2h 38m",
+        "nooflang":"Hindi",
+        "rated":"U/A 16+",
+        "info":"A heart-warming, real-life story of actor Sanjay Dutt's complicated relationships, his addictions and his endearing approach towards living life 'Dutt' size.",
+        "type":[
+            {
+                "cat_id":6,
+                "categorytype":"Biopic" 
+            }
+        ]
+    },
+    {
+        "id":58,
+        "category_id":2,
+        "name":"Ford v Ferrari",
+        "img":"https://i.ibb.co/Tcn8F2P/813148-v.webp",
+        "big_img":"https://i.ibb.co/bPrX9fT/1418774-i-853d92fade0b.webp",
+        "logo":"https://i.ibb.co/3s9cnNn/1418776-t-af07db92e840.webp",
+        "year":2019,
+        "duration": "2h 32m",
+        "nooflang":"2 Languages",
+        "rated":"U/A 16+",
+        "info":"Caroll Shelby and Ken Miles battle against all the odds to build a race car for Ford Motor Company and take on the dominant Ferraris at the Le Mans in 1966.",
+        "type":[
+            {
+                "cat_id":6,
+                "categorytype":"Biopic" 
+            }
+        ]
+    },
+    {
+        "id":59,
+        "category_id":1,
+        "name":"OBI-VAN KENOBI",
+        "img":"https://i.ibb.co/KDv94rz/1254155-v-465d5aaf59ee.webp",
+        "big_img":"https://i.ibb.co/jR46cRD/1419746-i-85c59d0cfa27.webp",
+        "logo":"https://i.ibb.co/smgrXpr/1419750-t-72288bbb1169.webp",
+        "year":2022,
+        "duration": "1 Season",
+        "nooflang":"5 Languages",
+        "rated":"U/A 13+",
+        "info":"During the reign of the Empire, Obi-Wan Kenobi embarks on a crucial mission.",
+        "type":[
+            {
+                "cat_id":5,
+                "categorytype":"Science Fiction"
+            }
+        ]
+    },
+    {
+        "id":60,
+        "category_id":2,
+        "name":"THE MAZE RUNNER",
+        "img":"https://i.ibb.co/JFHmCZ4/1770000289-v.webp",
+        "big_img":"https://i.ibb.co/jgkZ7C1/1370221-i-5a663e751ba3.webp",
+        "logo":"https://i.ibb.co/yhzbbpW/1370223-t-25dacdf52687.webp",
+        "year":2014,
+        "duration": "1h 48m",
+        "nooflang":"English",
+        "rated":"U/A 16+",
+        "info":"Thomas wakes up in an elevator and finds himself in a strange world of young boys who are trying to escape through the Maze that surrounds their living space.",
+        "type":[
+            {
+                "cat_id":5,
+                "categorytype":"Science Fiction"
+            }
+        ]
+    },
+    {
+        "id":61,
+        "category_id":1,
+        "name":"DEVS",
+        "img":"https://i.ibb.co/B4npQTp/649702-v.webp",
+        "big_img":"https://i.ibb.co/0jdfNbT/1377627-i-df35ac9394c9.webp",
+        "logo":"https://i.ibb.co/8dMZCh8/1377629-t-f342f97e8b64.webp",
+        "year":2020,
+        "duration": "1 Season",
+        "nooflang":"English",
+        "rated":"A",
+        "info":"A young software engineer, Lily Chan, investigates the secretive development division of her employer, which she believes is behind the murder of her boyfriend.",
+        "type":[
+            {
+                "cat_id":5,
+                "categorytype":"Science Fiction"
+            }
+        ]
+    },
+    {
+        "id":62,
+        "category_id":2,
+        "name":"THE MARTIN",
+        "img":"https://i.ibb.co/8bNnDxW/727698-v.webp",
+        "big_img":"https://i.ibb.co/FmHd815/1410573-i-2a6806fb4c58.webp",
+        "logo":"https://i.ibb.co/DGBtR4s/1410577-t-c4811b8815cb.webp",
+        "year":2015,
+        "duration": "2h 21m",
+        "nooflang":"English",
+        "rated":"U/A  13+",
+        "info":"Mark Watney is presumed dead and is left behind on planet Mars. NASA discovers that he is alive and commissions a mission to rescue him.",
+        "type":[
+            {
+                "cat_id":5,
+                "categorytype":"Science Fiction"
+            }
+        ]
+    },
+    {
+        "id":63,
+        "category_id":2,
+        "name":"TERMINATOR",
+        "img":"https://i.ibb.co/Mp3VLk7/871241-v.webp",
+        "big_img":"https://i.ibb.co/g9DRmMF/1372673-i-b4b6dc378a35.webp",
+        "logo":"https://i.ibb.co/tPCmQp4/1372675-t-8841a93491c4.webp",
+        "year":2019,
+        "duration": "2h 8m",
+        "nooflang":"4 Languages",
+        "rated":"U/A  16+",
+        "info":"Dani Ramos joins forces with Grace, a futuristic soldier, and Sarah Connor to fight against a highly advanced Terminator, a Rev-9.",
+        "type":[
+            {
+                "cat_id":5,
+                "categorytype":"Science Fiction"
+            }
+        ]
+    },
+    {
+        "id":64,
+        "category_id":1,
+        "name":"AAKHRI SACH.",
+        "img":"https://i.ibb.co/n08tkvB/1597505-v-a138fb6088a5.webp",
+        "big_img":"https://i.ibb.co/6nfrdCC/1604479-i-c03c2aa23119.webp",
+        "logo":"https://i.ibb.co/z4mzQnz/1604478-t-a567aaa380ee.webp",
+        "year":2019,
+        "duration": "1 Season",
+        "nooflang":"7 Languages",
+        "rated":"A",
+        "info":"A bone-chilling tale that unravels the twisted ties of fate, trapped secrets of a family and the most terrifying horrors an investigator has ever seen.",
+        "type":[
+            {
+                "cat_id":3,
+                "categorytype":"Crime" 
+            }
+        ]
+    },
+    {
+        "id":65,
+        "category_id":2,
+        "name":"MONSTER",
+        "img":"https://i.ibb.co/GJmrqrd/1425601-v-1baa595b7dc0.webp",
+        "big_img":"https://i.ibb.co/whMXSnK/1425603-i-5cda8f186e0e.webp",
+        "logo":"https://i.ibb.co/R3C9nPs/1425602-t-5fd91b5c0af4.webp",
+        "year":2019,
+        "duration": "2h 13m",
+        "nooflang":"4 Languages",
+        "rated":"U/A  13+",
+        "info":"Trying to cope with the hardships, Bhamini and Anil's life turns catastrophic as Lucky Singh invades. Secrets unveil when this uninvited guest starts his game",
+        "type":[
+            {
+                "cat_id":3,
+                "categorytype":"Crime" 
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Drama"  
+            }
+        ]
+    },
+    {
+        "id":66,
+        "category_id":2,
+        "name":"JUNGLE CRUISE",
+        "img":"https://i.ibb.co/bvbcv7f/1075908-v-74780cbd6355.webp",
+        "big_img":"https://i.ibb.co/VqRfdQr/1408281-i-c37b76fe5525.webp",
+        "logo":"https://i.ibb.co/GTjbgWg/1408284-t-82f4382ce464.webp",
+        "year":2021,
+        "duration": "2h 7m",
+        "nooflang":"5 Languages",
+        "rated":"U/A  13+",
+        "info":"A rollicking thrill-ride down the Amazon with wisecracking skipper Frank Wolff and intrepid researcher Dr. Lily Houghton.",
+        "type":[
+            {
+                "cat_id":7,
+                "categorytype":"Adventure"
+            },
+            {
+                "cat_id":1,
+                "categorytype":"Action"   
+            },
+            {
+                "cat_id":12,
+                "categorytype":"Fantasy"
+            }
+        ]
+    },
+    {
+        "id":67,
+        "category_id":2,
+        "name":"PIRATES OF THE CIRIBBEAN",
+        "img":"https://i.ibb.co/pZXG9YX/675402-v.webp",
+        "big_img":"https://i.ibb.co/tLN83SV/1374278-i-00cd5b606a7a.webp",
+        "logo":"https://i.ibb.co/ssx117L/1374280-t-4195a0ffe804.webp",
+        "year":2003,
+        "duration": "2h 23m",
+        "nooflang":"5 Languages",
+        "rated":"U/A  13+",
+        "info":"When Captain Barbossa kidnaps the Governer's daughter and her would-be suitor, Will Turner, coerces Captain Jack Sparrow into rescuing her.",
+        "type":[
+            {
+                "cat_id":7,
+                "categorytype":"Adventure"
+            },
+            {
+                "cat_id":1,
+                "categorytype":"Action"   
+            },
+            {
+                "cat_id":12,
+                "categorytype":"Fantasy"
+            }
+        ]
+    },
+    {
+        "id":68,
+        "category_id":2,
+        "name":"THE JUNGLE BOOK",
+        "img":"https://i.ibb.co/nrRB6CQ/675541-v.webp",
+        "big_img":"https://i.ibb.co/PFV6Ckk/1368752-i-0d4f9930e8e3.webp",
+        "logo":"https://i.ibb.co/gVNKtj0/1368756-t-0532b8da2dde.webp",
+        "year":2016,
+        "duration": "1h 45m",
+        "nooflang":"5 Languages",
+        "rated":"U",
+        "info":"When a tiger named Shere Khan threatens to kill Mowgli, a young boy raised by wolves, his friends Bagheera and Baloo help him escape his clutches.",
+        "type":[
+            {
+                "cat_id":7,
+                "categorytype":"Adventure"
+            },
+            {
+                "cat_id":10,
+                "categorytype":"Kids"   
+            },
+            {
+                "cat_id":12,
+                "categorytype":"Fantasy"
+            }
+        ]
+    },
+    {
+        "id":69,
+        "category_id":2,
+        "name":"BRAHMASTRA",
+        "img":"https://i.ibb.co/p1PW7ZP/1405041-v-3f9a1366bf49.webp",
+        "big_img":"https://i.ibb.co/rt0SbRJ/1405693-i-d32e11fe5fd9.webp",
+        "logo":"https://i.ibb.co/z4TmDQn/1405692-t-fd8aa89f1dfc.webp",
+        "year":2022,
+        "duration": "2h 48m",
+        "nooflang":"5 Languages",
+        "rated":"U/A  13+",
+        "info":"A journey of fantasy, action and romance comes to life as Shiva enters the Astraverse! He discovers true love and also, the power of fire within him.",
+        "type":[
+            {
+                "cat_id":7,
+                "categorytype":"Adventure"
+            },
+            {
+                "cat_id":2,
+                "categorytype":"Drama"   
+            },
+            {
+                "cat_id":12,
+                "categorytype":"Fantasy"
+            }
+        ]
+    },
+    {
+        "id":70,
+        "category_id":2,
+        "name":"Bala",
+        "img":"https://i.ibb.co/Chbk1g4/705002-v.webp",
+        "big_img":"https://i.ibb.co/bbdYp53/1408086-i-c92ec7cebcf5.webp",
+        "logo":"https://i.ibb.co/zShRW6D/1408088-t-7c229be7f3f7.webp",
+        "year":2019,
+        "duration": "2h 13m",
+        "nooflang":"Hindi",
+        "rated":"U/A  13+",
+        "info":"Balmukund Shukla's pride lies in his hair, but premature baldness robs him of more than just his looks. With love at stake, will he have a 'hairy'-tale ending?",
+        "type":[
+            {
+                "cat_id":8,
+                "categorytype":"Comedy"
+            },
+            {
+                "cat_id":4,
+                "categorytype":"Romance"   
+            }
+        ]
+    },
+    {
+        "id":71,
+        "category_id":1,
+        "name":"MY3",
+        "img":"https://i.ibb.co/tCvF9Gt/1617715-v-e2eed3055cfe.webp",
+        "big_img":"https://i.ibb.co/sQ2jhb2/1581027-i-a8160d0cd0c3.webp",
+        "logo":"https://i.ibb.co/Srzw6pm/1581026-t-25b184b0357e.webp",
+        "year":2023,
+        "duration": "1 Season",
+        "nooflang":"7 Languages",
+        "rated":"U/A  13+",
+        "info":"A rich entrepreneur struggling with an allergy to human touch finds a solution in a robot. But when it crashes before delivery, a 'real' replacement is sent.",
+        "type":[
+            {
+                "cat_id":8,
+                "categorytype":"Comedy"
+            },
+            {
+                "cat_id":4,
+                "categorytype":"Romance"   
+            }
+        ]
+    },
+    {
+        "id":72,
+        "category_id":2,
+        "name":"GOOD NIGHT",
+        "img":"https://i.ibb.co/rxC5ZN3/1546146-v-0198423c9b45.webp",
+        "big_img":"https://i.ibb.co/fxD9ny0/1546148-i-aa554b89e70d.webp",
+        "logo":"https://i.ibb.co/jZ4xzCz/1546147-t-90a1b90be7e4.webp",
+        "year":2023,
+        "duration": "2h 25m",
+        "nooflang":"5 Languages",
+        "rated":"U/A  7+",
+        "info":"A chance meeting brings a diffident Mohan and Anu together. When his snoring wreaks havoc on their marital life, can the couple find a solution?",
+        "type":[
+            {
+                "cat_id":8,
+                "categorytype":"Comedy"
+            },
+            {
+                "cat_id":1,
+                "categorytype":"Drama"   
+            }
+        ]
+    },
+    {
+        "id":73,
+        "category_id":2,
+        "name":"GATTA KUSTHI",
+        "img":"https://i.ibb.co/bvJFWbW/1562063-v-8ef54d51dd6d.webp",
+        "big_img":"https://i.ibb.co/9NbtC3L/1562065-i-a825426ee952.webp",
+        "logo":"https://i.ibb.co/BTx8tTs/1562064-t-c3dbd1fa1035.webp",
+        "year":2022,
+        "duration": "2h 18m",
+        "nooflang":"5 Languages",
+        "rated":"U/A 13+",
+        "info":"A chance meeting brings a diffident Mohan and Anu together. When his snoring wreaks havoc on their marital life, can the couple find a solution?",
+        "type":[
+            {
+                "cat_id":8,
+                "categorytype":"Comedy"
+            },
+            {
+                "cat_id":4,
+                "categorytype":"Romance"   
+            }
+        ]
+    },
+    {
+        "id":74,
+        "category_id":2,
+        "name":"PRINCE",
+        "img":"https://i.ibb.co/QfF4src/1423118-v-5dbedd7f3d67.webp",
+        "big_img":"https://i.ibb.co/zhHjrZV/1423120-i-65faa7bf8578.webp",
+        "logo":"https://i.ibb.co/gz6Khx6/1423119-t-580fabd96a4a.webp",
+        "year":2022,
+        "duration": "2h 8m",
+        "nooflang":"4 Languages",
+        "rated":"U",
+        "info":"A comedy of errors ensues when Anbu falls for his British colleague Jessica. Cultural differences aside, there is a lot more to settle for this couple to unite",
+        "type":[
+            {
+                "cat_id":8,
+                "categorytype":"Comedy"
+            },
+            {
+                "cat_id":4,
+                "categorytype":"Romance"   
+            }
+        ]
+    },
+    {
+        "id":75,
+        "category_id":2,
+        "name":"FREE GUY",
+        "img":"https://i.ibb.co/3MtZC11/1068802-v-d72b657b7aae.webp",
+        "big_img":"https://i.ibb.co/1vdwyW5/1408201-i-c547136405c1.webp",
+        "logo":"https://i.ibb.co/B4LP9xP/1506972-t-154e54c6b9d6.webp",
+        "year":2021,
+        "duration": "1h 54m",
+        "nooflang":"4 Languages",
+        "rated":"U/A 13+",
+        "info":"Guy, a bank teller, discovers he is a background player in an open-world video game and decides to become the hero of his own story.",
+        "type":[
+            {
+                "cat_id":8,
+                "categorytype":"Comedy"
+            },
+            {
+                "cat_id":1,
+                "categorytype":"Action"   
+            }
+        ]
+    },
+    {
+        "id":76,
+        "category_id":1,
+        "name":"DOREMON",
+        "img":"https://i.ibb.co/TWPTcjz/751995-v.webp",
+        "big_img":"https://i.ibb.co/ryHWd2J/795056-i.webp",
+        "logo":"https://i.ibb.co/syXBwsC/795058-t.webp",
+        "year":2021,
+        "duration": "4 Seasons",
+        "nooflang":"4 Languages",
+        "rated":"U",
+        "info":"Trouble seems to follow Nobita around. Fortunately for him, he's got Doraemon, a trusty cat-type robot from the 22nd century.",
+        "type":[
+            {
+                "cat_id":10,
+                "categorytype":"Kids"
+            }
+        ]
+    },
+    {
+        "id":77,
+        "category_id":1,
+        "name":"SHIN CHAN",
+        "img":"https://i.ibb.co/KG28CSj/673824-v.webp",
+        "big_img":"https://i.ibb.co/PNhV4qd/795059-i.webp",
+        "logo":"https://i.ibb.co/8m7BFxs/795060-t.webp",
+        "year":2019,
+        "duration": "4 Seasons",
+        "nooflang":"4 Languages",
+        "rated":"U",
+        "info":"Guy, a bank teller, discovers he is a background player in an open-world video game and decides to become the hero of his own story.",
+        "type":[
+            {
+                "cat_id":10,
+                "categorytype":"Kids"
+            }
+        ]
+    },
+    {
+        "id":78,
+        "category_id":2,
+        "name":"FROZEN",
+        "img":"https://i.ibb.co/pj59khk/875203-v.webp",
+        "big_img":"https://i.ibb.co/vc93DKL/1410442-i-d09eeb4d01e7.webp",
+        "logo":"https://i.ibb.co/VJd1HLx/1412315-t-81e824c83128.webp",
+        "year":2019,
+        "duration": "1h 54m",
+        "nooflang":"4 Languages",
+        "rated":"U",
+        "info":"Guy, a bank teller, discovers he is a background player in an open-world video game and decides to become the hero of his own story.",
+        "type":[
+            {
+                "cat_id":10,
+                "categorytype":"Kids"
+            }
+        ]
+    },
+    {
+        "id":79,
+        "category_id":2,
+        "name":"CARS",
+        "img":"https://i.ibb.co/2vtxDmC/675553-v.webp",
+        "big_img":"https://i.ibb.co/HGXmSGJ/808726-i.webp",
+        "logo":"https://i.ibb.co/L17Kj19/1369376-t-f51bc0f03c62.webp",
+        "year":2006,
+        "duration": "1h 56m",
+        "nooflang":"4 Languages",
+        "rated":"U",
+        "info":"Guy, a bank teller, discovers he is a background player in an open-world video game and decides to become the hero of his own story.",
+        "type":[
+            {
+                "cat_id":10,
+                "categorytype":"Kids"
+            }
+        ]
+    },
+    {
+        "id":80,
+        "category_id":1,
+        "name":"AVENGERS ASSEMBLE",
+        "img":"https://i.ibb.co/SXQsM5S/673889-v.webp",
+        "big_img":"https://i.ibb.co/8xBgr3v/795131-i.webp",
+        "logo":"https://i.ibb.co/1bGhJ1t/1378714-t-65f2c0b0e5a0.webp",
+        "year":2015,
+        "duration": "2 Seasons",
+        "nooflang":"4 Languages",
+        "rated":"U/A 7+",
+        "info":"Guy, a bank teller, discovers he is a background player in an open-world video game and decides to become the hero of his own story.",
+        "type":[
+            {
+                "cat_id":10,
+                "categorytype":"Kids"
+            }
+        ]
+    }
+]
