@@ -4,19 +4,19 @@ import {Link} from 'react-router-dom';
 
 function Header(){
 
-    function closeCoupon(){
-        if(
-            document.getElementById('coupon')
-            ) {
-                document.getElementById('coupon').style.visibility = 'hidden';
-            }
-    };
+    // function closeCoupon(){
+    //     if(
+    //         document.getElementById('coupon')
+    //         ) {
+    //             document.getElementById('coupon').style.visibility = 'hidden';
+    //         }
+    // };
     window.onload = onloadPage();
     function onloadPage(){
        if(
        document.getElementById("coupon","sub")
        ) {
-           document.getElementById('coupon').style.visibility = 'visible';
+        //    document.getElementById('coupon').style.visibility = 'visible';
            document.getElementById('sub').style.visibility = 'hidden';
        }
    };
@@ -57,9 +57,9 @@ function Header(){
                 {/* <i class="fa-solid fa-moon" onClick={changeMode}></i> */}
             </div>
         </div>
-            <div id="coupon">
+            {/* <div id="coupon">
                 <button onClick={closeCoupon}>&times;</button>
-            </div>
+            </div> */}
             <div id='sub'>
                 <button onClick={closeSub}>&times;</button>
             </div>

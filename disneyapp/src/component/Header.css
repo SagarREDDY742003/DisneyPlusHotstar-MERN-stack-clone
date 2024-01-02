@@ -1,18 +1,17 @@
 /* *{
-    width: 100vw;
+    width: 100%;
     margin: 0px;
     box-sizing: border-box;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #000000;
 } */
-.mylight{
+/* .mylight{
     background-color: rgb(245, 255, 255);
     color: #0f1014;
 }
 .body{
     background-color: #0f1014;
     color: aliceblue;
-}
+} */
 /*---------------nav bar--------------------------*/
 .navba{
     width: 100px;
@@ -111,7 +110,7 @@
 }
 
 
-
+/* 
 #coupon{
     height:600px;
     width: 60%;
@@ -138,7 +137,7 @@
     border: none;
     border-radius:0px 20px ;
     z-index: 1;
-  }
+  } */
 
   #sub{
     height:700px;
@@ -165,4 +164,12 @@
     border: none;
     border-radius:0px 20px ;
     z-index: 1;
+  }
+  @media only screen and (max-width:700px){
+    #sub{
+        width: 370px;
+        height: 450px;
+        margin-left:5%;
+        z-index: 100;
+    }
   }

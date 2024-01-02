@@ -8,6 +8,7 @@ const Tabdisplay = (props) => {
             if(itData.length > 0){
             return itData.map((item) =>{
                 return(
+                    <Link to={`/details/${item.id}`} key={item.id}>
                     <div className="movietab">
                         <img src={item.img} alt=""/>
                         <div className="moviecontent">
@@ -21,7 +22,7 @@ const Tabdisplay = (props) => {
                             <p className="moviedesc">{item.info}</p>
                         </div>
                     </div>
-                    
+                    </Link>
                 )
             })
         }else{
