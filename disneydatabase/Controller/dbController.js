@@ -10,7 +10,7 @@ async function dbConnect(){
 let db = client.db('disneyplushotstar');
 
 async function getData(colName,query){
-    let query = [];
+    let output = [];
     try{
         const cursor = db.collection(colName).find(query);
         for await(const data of cursor){
